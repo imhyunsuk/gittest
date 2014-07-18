@@ -17,6 +17,7 @@ class Email(QWidget):
 		self.hourCombo = QComboBox()
 		self.hourCombo.setMaximumWidth(100)
 
+
 		minuteLabel = QLabel("Minute:")
 		self.minuteCombo = QComboBox()
 		self.minuteCombo.setMaximumWidth(100)
